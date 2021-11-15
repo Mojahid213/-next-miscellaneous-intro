@@ -19,3 +19,10 @@
   align-items: center;
   justify-content: center;
 }
+.Lazy_Image {
+  height: 480px;
+  width: 250px;
+}
+.div_border {
+  border: 5px solid black;
+}
