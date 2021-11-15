@@ -1,0 +1,21 @@
+.layout-header {
+  background-color: orange;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  font-size: 20px;
+}
+.layout-footer {
+  background-color: orange;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  font-size: 20px;
+}
+
+.content {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
